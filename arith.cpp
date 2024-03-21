@@ -14,5 +14,11 @@ printf("the subracted two number is: %d\n",sub);
 printf("the multiplied two number is: %d\n",mul);
 printf("the divided two number is: %d\n",div);
 printf("the remainder of two number is: %d\n",mod);
+
+//printf("the added two number is: %d\n",add);
+//printf("the subracted two number is: %d\n",sub);
+//printf("the multiplied two number is: %d\n",mul);
+//printf("the divided two number is: %d\n",div);
+//printf("the remainder of two number is: %d\n",mod);
 }
 
